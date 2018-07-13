@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WatchDogDemo", "WatchDogDemo\", "{FDEE6D81-4C33-4A6C-8AFB-39F3BF23A98A}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_3334"
+		Debug.AspNetCompiler.PhysicalPath = "WatchDogDemo\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_3334\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_3334"
+		Release.AspNetCompiler.PhysicalPath = "WatchDogDemo\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_3334\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "3334"
+		SlnRelativePath = "WatchDogDemo\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDEE6D81-4C33-4A6C-8AFB-39F3BF23A98A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDEE6D81-4C33-4A6C-8AFB-39F3BF23A98A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {877BD63E-6F65-41E8-9B05-70BA47C04CE4}
+	EndGlobalSection
+EndGlobal
